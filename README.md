@@ -20,6 +20,7 @@ We aim to develop a robust and revolutionary platform that transforms mundane le
 ## Features
 1. **Educational Flashcard Generation**
    - Analyze course material to create bite-sized flashcards covering key concepts.
+   - Algorithm can sieve through the input material and identify the main concepts to be highlighted.
    - Tutors can vet and adjust flashcards before student access.
    - Generate an optimal study schedule incorporating spaced repetition for long-term retention.
 
@@ -27,6 +28,7 @@ We aim to develop a robust and revolutionary platform that transforms mundane le
    - Centralized platform for viewing flashcards by module.
    - Fun quizzes at the end of each topic to assess understanding.
    - Level and achievement system to incentivize academic tasks.
+   - Adventure-type game system where user gets to choose their own character, with upgrades available with completion of quizzes.
 
 3. **Unique Study Plan Tailored for Each Student**
    - Personalized study plans based on semester timetables and learning goals.

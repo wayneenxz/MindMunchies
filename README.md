@@ -77,6 +77,11 @@ We aim to develop a robust and revolutionary platform that transforms mundane le
 - MySQL (Database)
 - Blockchain
 
+## Setup Guide
+1. Install WampServer [here](https://sourceforge.net/projects/wampserver/)
+2. In the installation page, WampServer requires certain elements to be installed before it can execute properly.
+
+
 ## Qualifications
 - **Wayne:** Data visualization skills (BT1101), Python programming (CS1010A), product development (DTK1234), ethical considerations (IS1108).
 - **Wen Xuan:** Data structures (CS2040S, CS2030S), JavaScript, CSS, HTML (CS50), ethical considerations (IS1108).

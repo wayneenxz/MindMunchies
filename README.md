@@ -10,9 +10,12 @@ In the hectic life of a university student, navigating diverse subjects with cha
 We aim to develop a robust and revolutionary platform that transforms mundane learning into a delightful experience. Initially targeting university students, our platform will integrate course materials to generate relevant and helpful flashcards using advanced algorithms. Teachers and students can also manually create flashcards to aid their learning journey. This interactive platform will enhance learning efficiency, making study sessions more engaging and productive. Our vision extends to expanding Mind Munchies to other professions and institutions, offering a flexible learning experience beneficial to all.
 
 ## User Stories
-- **Student:** As a student with limited study time, I want to optimize my revision schedule to maximize knowledge retention.
-- **Student:** As a student seeking joy in learning, I want an interactive learning experience that transforms studying into a game.
-- **Teacher:** As a teacher, I want to provide engaging and concise summaries to help students absorb class content effectively.
+| User        | Intended Action           | Result |
+| :-------------: |:-------------:| :-----:|
+| Student      | Wants to optimize revision schedule | To maximize knowledge retention |
+| Student      | Wants to be able to transform studying into a game      |  To have an interactive learning experience |
+| Teacher | Wants to provide engaging and concise summaries     |  To help students absorb class content effectively |
+
 
 ## Features
 1. **Educational Flashcard Generation**
@@ -37,6 +40,16 @@ We aim to develop a robust and revolutionary platform that transforms mundane le
 
 6. **API for Integration of External Applications**
    - Launch educational tools in the form of packages, fostering an academic collaboration ecosystem.
+  
+7. **Customizable Interface**
+   - User would be able to customize the aesthetic and design of the interface to suit their academic needs.
+
+## Features Priority List
+| Must-have        | Good-to-have          | Could-have |
+| :-------------: |:-------------:| :-----:|
+| Educational Flashcard Generation      | Game-like Learning Environment | Customizable Interface |
+| Unique Study Plan      | Community Forum    |   |
+| Learning Support | API for Integration of External Applications     |   |
 
 ## Timeline
 

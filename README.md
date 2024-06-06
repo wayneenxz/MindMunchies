@@ -91,11 +91,12 @@ We aim to develop a robust and revolutionary platform that transforms mundane le
 9. On the left, create a new schema called **'WebsiteLogin'**. Click into the schema.
 10. Create a new table called **'LoginDetails'** with 5 columns.
 11. In order, these are the columns of the table. **'id'** (INT), **'name'** (VARCHAR), **'username'** (VARCHAR), **'email'** (VARCHAR), **'password'** (VARCHAR).
-12. Length/Values of the columns are free for you to set.
-13. Now the Database should be set.
-14. Enter **'localhost/orbital/login.php'** to access the site.
-15. You may click **'Sign Up Now'**, which brings you to the Registration page.
-16. After registering, you may now login! 
+12. Ensure that the 'id' column is auto-incremented.
+13. Length/Values of the columns are free for you to set.
+14. Now the Database should be set.
+15. Enter **'localhost/orbital/login.php'** to access the site.
+16. You may click **'Sign Up Now'**, which brings you to the Registration page.
+17. After registering, you may now login! 
 
 
 

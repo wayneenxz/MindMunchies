@@ -1,7 +1,0 @@
-Flask
-Flask-Login
-Flask-WTF
-Flask-Babel
-Flask-SQLAlchemy
-Flask-Migrate
-email_validator

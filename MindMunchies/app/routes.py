@@ -133,4 +133,3 @@ def delete_all_flashcards():
     db.session.commit()
     flash('All flashcards have been deleted.', 'success')
     return redirect(url_for('main.flashcards'))
-
